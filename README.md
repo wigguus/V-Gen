@@ -19,7 +19,7 @@ If You already have installed python and pip:
 2. Wait for install everything and start program
 3. Choose how many codes You need to generate.
 
-![Image](https://ibb.co/7vLBfkR)
+![Image](https://i.ibb.co/p25N7hR/image.png)
 
 ## Need help? Report problem? / Contact
 Discord: virkyu
