@@ -2,7 +2,7 @@
 
 # V-Gen
 Awesome, new, easy to use proxyless discord 
-opera GX Promo Links Generator writed in python!
+opera GX Promo Links Generator written in python!
 
 # Why V-Gen?
 - Proxyless
